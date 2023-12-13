@@ -1,6 +1,6 @@
 <img  src="https://raw.githubusercontent.com/sagor009988/sagor009988/main/Colorful%20Illustration%20Kids%20Channel%20Youtube%20Banner.png"></img>
 <h1 align="center">Hi 👋, I'm Md.Sagor Hossaign</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">I'm a Front End Web developer ,who is passionate about working with team and making error free webside.I have a passion for learning and sharing .I love to solve real world problems.I pride myself on doing quality work and maintain excellent communication and i also enjoy working with html,css,JavaScript ,react js, next js,mongoDB,express,jwt,nodemon and so on.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor009988&label=Profile%20views&color=0e75b6&style=flat" alt="sagor009988" /> </p>
 
